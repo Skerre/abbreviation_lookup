@@ -1,0 +1,48 @@
+body {
+    font-family: Calibri, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+
+  .search {
+      font-size: 12px;
+      padding: 8px 16px;
+      background-color: white; 
+      color:#000000; 
+      border: 2px solid#008CBA;
+    }
+    
+/* .search:hover {
+      background-color: #008CBA;
+      color: white;
+    } */
+  
