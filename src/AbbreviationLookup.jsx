@@ -8,7 +8,7 @@ export default function AbbreviationLookup() {
   const [showAll, setShowAll] = useState(false);
 
   useEffect(() => {
-    fetch("/abbreviations_cleaned.json")
+    fetch("./abbreviations_cleaned.json")
       .then((response) => response.json())
       .then((data) => setAbbreviations(data))
       .catch((error) => console.error("Error loading abbreviations:", error));
