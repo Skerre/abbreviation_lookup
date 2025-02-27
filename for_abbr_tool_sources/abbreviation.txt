@@ -1,0 +1,330 @@
+www.undp.org | www.adaptation-undp.org | #ClimatePromise
+Climate Information and Early Warning Systems
+October 2020
+Through our work on climate information and early warning systems, UNDP is protecting lives and livelihoods, providing people with the information they need to thrive and enhancing evidence-based decision making.
+Climate change is expected to increase the exposure of many countries, especially least developed countries (LDCs), to climate and meteorological hazards which threaten lives, infrastructure and economic activities. Extreme meteorological and climate events, such as heavy rainfall causing flooding and landslides, or increasing heatwaves and droughts, are either already increasing in intensity, duration and frequency, or are likely to do so in the future. Forewarning of these events enables preventative action to be taken, and a key component of many climate information and early warning systems (CI/EWS) projects is to deliver accessible, credible, appropriate and actionable weather and climate information, at time and space scales that can be used for decision making in project-relevant sectors and areas.
+To achieve this, investments are made in all aspects of the information value chain; from building and strengthening observation networks, developing risk-related and tailored products, improving communications and information sharing, to building services for communities, decision makers and businesses to use and understand weather and climate-related information. In LDCs where human, technical and financial capacities may be limited, this involves focussing resources to address critical gaps in operating and maintaining observing and IT infrastructure, developing hazard modelling and forecasting capabilities, promoting institutional cooperation, introducing mobile-phone-based technologies, involving communities in both data collection and contributing to the development of warnings and advisories, among others. To do this in sustainable ways is often difficult but can be achieved by carefully building on existing capacities, developing links between projects and institutions, as well as introducing new low-cost technologies and promoting revenue streams through both the public and private sectors.
+ISSUES BRIEF
+www.undp.org | www.adaptation-undp.org | #ClimatePromise
+Climate Information and Early Warning Systems
+October 2020
+UNDP’s comparative advantage
+COVID-19
+A robust early warning system supports response and recovery from pandemics like Covid-19 by using early warning communication channels to share awareness messages, inform on best practices and build understanding of life-saving behaviors. As part of the COVID-19 response in Malawi, early warning system tools were used to inform the community of the virus and spread knowledge on how to limit its spread.
+Challenges
+There are many challenges to overcome in order to promote the effective use of CI/EWS in LDCs, including but not limited to:
+• Lack of data sharing between National Hydro-Meteorological Services (NHMS) and sectoral agencies leading to delays in warnings and hindering the development of sectoral products.
+• Low numbers of employees in government institutions, leading to limited effectiveness of training and not enough people to develop new sectoral products or engage in dissemination activities.
+• Difficulties in setting up fair and sustainable public-private partnerships (PPP), including paying for services and data sharing/ownership agreements.
+• Inefficient collection of data and production/dissemination of warnings. Often the result of inefficient standard operating procedures. Communities do not receive warnings in time to use them.
+• Communities not able to understand and interpret advisories and warnings. Including how to use technical outputs such as a probabilistic seasonal forecasts, interpret SMS messages, etc.
+• Lack of technical capacity to develop, interpret and revise sectorally-specific information packages based on climate and non-climate data
+• Limited access to computational resources for weather, climate and impact modelling
+• Limited numbers of automatic weather and hydrological monitoring stations
+UNDP supports developing countries to access financing for climate change adaptation through several sources of global environmental finance, including those managed by the Global Environment Facility (LDCF, SCCF and AF), Green Climate Fund (GCF), bilateral and multilateral donors. These projects cover a wide range of sectors and involve governments, community-based organizations and NGOs working together to deliver information and solutions for adaptation to climate variability and change. As a convener, UNDP works across development sectors and helps bring diverse actors together to enable multi-disciplinary approaches to CI/EWS. Its on-the-ground presence in countries across the world ensures hands-on bespoke approaches to address unique national needs. With climate information serving as a key element for scaled up climate actions across any number of signature solutions, including ecosystems and biodiversity, energy and climate change adaptation, UNDP has the opportunity to better inform climate actions across multiple sectors, promoting evidence-based investments on everything from infrastructure to sustainable development.
+Photo: UNDP Malawi
+Successes and key programmes
+Looking forward to our continued work in this field, with emerging opportunities to support countries through the Green Climate Fund and other sources, important lessons include:
+• The use of CI and EWS within developing countries is often part of a suite of actions designed to increase resilience and adaptive capacity. To be useful CI and EWS need to be integrated into the associated planning and decision processes.
+• No one size fits all; each country and project starts with different baseline infrastructure and capacities, as well as development needs.
+• Sharing, access and the ability to develop tailored climate/weather related information is critical for the successful operation of EWS and the use of CI for adaptation.
+• Farmer training and community-based EWS, Malawi (GCF)
+• Participatory Integrated Climate Services for Agriculture (PICSA) approach to farmer engagement
+• Low-cost sensors
+Hydro-Meteorological Data Burkina Faso (LDCF)
+• Weather forecasts
+• Early warnings for floods and droughts
+Applications Niger (LDCF)
+• Farmer rain gauges
+• Advisories and agricultural risk information
+Risk Assessment Viet Nam (GCF, SCCF)
+• Flood mapping
+• Impacts on rural infrastructure
+Glacial Lake Outburst Floods (GLOFs) Bhutan, Nepal (LDCF)
+• Monitoring equipment linked to sirens
+• Disaster risk management institutionalized
+• Artificial lowering system for lakes
+Flood Management, Papua New Guinea (AF)
+• Flood EWS
+• Mangrove restoration
+• Community-based risk management
+Coastal Management Liberia, Egypt (LDCF, SCCF)
+• Coastal monitoring system
+• Coastal development planning
+• Disaster preparedness and response plan
+Drought Management Mali (LDCF, Canada)
+• Climate-smart agriculture
+• Adjust planting times, crop types
+www.undp.org | www.adaptation-undp.org | #ClimatePromise
+Climate Information and Early Warning Systems
+October 2020
+Main areas of work
+• Reduce reliance on one type of technology or medium by utilising combinations of automatic and manual equipment, mobile telecommunications, radio, TV and internet
+• Develop shared databases and promote institutional cooperation and engagement to develop new products
+• Involve communities in product design and operations and maintenance of equipment; develop a sense of ownership
+• Information sharing within and between countries, as well as systematic reviews of data quality, reporting frequencies, and dissemination channels are critical to inform and iteratively improve CI/EWS systems
+• Development of climate information infrastructure
+o Procurement and installation of automatic hydro/weather stations
+o Low-cost community-based stations
+• Climate information dissemination
+o Creation of climate information packages
+• Climate information value chain development
+• Capacity building for modelling and forecasting
+o Nowcasting
+• Alternative technologies
+• Private sector engagement
+o Revenue generation
+o Public-private partnerships for the siting of weather stations and distribution of messaging
+• Digitizing historical records
+• Impact of warnings and advisories on livelihoods and behavior
+Photo: UNDP Bhutan
+Climate Information and Early Warning Systems
+October 2020
+Innovation and looking ahead
+• Rain Fade. Rainfall from cell towers and phones (rain fade) can be used to create localized monitoring and dissemination – need access/negotiation with mobile phone companies and 3rd parties e.g. https://www.climacell.co
+• Lightning and severe thunderstorm detection – may depend on willingness to have data processing outside country/on cloud e.g. https://www.earthnetworks.com/, https://www.ubimet.com/en/
+• Global tools for forecasting and modelling. Willingness to allow use of cloud-based forecasting tools. GLOFAS http://www.globalfloods.eu
+• Use of machine learning and crowdsourcing for weather forecasts and emergency response e.g. http://project.i-react.eu/
+• Greater use of remote sensing (satellites and drones) to collect data and supplement on-the-ground observations
+• Last mile. With the effective collection of climate information, targeted packages need to be created to take the information to end users to create actionable results.
+CIRDA
+The Programme on Climate Information for Resilient Development in Africa (CIRDA) worked with vulnerable countries in Africa to strengthen national climate information systems. It provided capacity building on meteorological, climate and hydrological observing and forecasting systems, disaster risk management and viable communication systems/processes for disseminating alerts, and the use of alternative cost-effective technologies.
+Connecting with the big picture
+UNDP’s Climate Promise. Information will be essential in accelerating the ambition of Nationally Determined Contributions to the Paris Agreement. This information can be used to inform future investments in infrastructure, adaptive measures, energy and others.
+SDGs. Climate information doesn’t just save lives from fast-acting storms, it also paves the way for more effective agriculture production and food security, expanded livelihoods opportunities, and increased linkages with cities.
+Partnerships
+Existing Partnerships
+Private Sector. Pilot projects to engage with the private sector have been experimented with in Liberia, Malawi, Sierra Leone and Uganda. These included connections with private-service and cloud providers for monitoring and reporting, engagement with telecoms for dissemination and siting of weather stations, and engagement with the private sector to expand climate services to the last mile.
+Risk informed Early Action Partnership (REAP). The partnership, to which UNDP is a member, aims to make 1 billion people safer from disasters by creating a new partnership to greatly expand early action financing and improve early warning systems and the capacity to act on the risks they identify.
+New and emerging areas of partnerships
+Alliance for Hydromet Development. Launched at COP25, the alliance aims to ramp up action that strengthens the capacity of developing countries to deliver high-quality weather forecasts, early warning systems, water, hydrological and climate services. The founding members of the Alliance for Hydromet Development are the Adaptation Fund, African Development Bank, Asian Development Bank, European Bank for Reconstruction and Development, Global Environment Facility, Green Climate Fund, Islamic Development Bank, United Nations Development Programme, United Nations Environment Programme, World Bank, World Food Programme and World Meteorological Organization.
+www.undp.org | www.adaptation-undp.org | #ClimatePromise
+Impact
+“Indigenous knowledge of predictions have become more like tossing a coin. We now see that traditional ways of predicting the weather just don’t work. With climate updates, I now know that if it rains tomorrow I can save my fertilizer for another day.” – Musepi, 44, Zambian farmer.
+Like many Zambian small-scale farmers, Musepei, 44, has long relied on traditional weather indicators, such as the blossoming of certain indigenous trees to manage his crops. But such traditional know-how has become increasingly unreliable in the face of climate change, which has disrupted the seasons and led to prolonged dry spells, greater flooding and erratic rainfall.
+Droughts and floods over the last 30 years have cost Zambia more than $13.8 billion according to recent estimates – that is equivalent to 4 per cent of annual GDP. The impacts of climate change could cost the country an additional $4.3 billion in lost GDP over the next decade if immediate climate actions are not taken.
+With funding from the Global Environment Facility Least Developed Countries Fund, UNDP worked with the met department and district agriculture officers through the CI/EWS project to notify farmers like Musepei about planting conditions and advise them on substitute crops.
+The ground-work laid by this initial project is now being take to scale by the Government of Zambia, through a United Nations-led partnership including UNDP, FAO and WFP, which accessed $32 million from the Green Climate Fund for a 7-year, $137 million project (known locally as the SCRALA project) that is indirectly supporting three million small-scale farmers in Zambia in building climate resilient lives.
+Implemented by the Zambian Ministry of Agriculture, the SCRALA project is helping farmers in 16 districts across five provinces cope better with climate change threats through modern technology, sustainable growing techniques and better understanding of climate issues.
+To broaden the reach of weather updates, the project partners with community radio stations to interpret and broadcast weather information in local languages and intends to train the presenters on how to better interpret the information.
+Each hour, the community radio stations pass on weather information including cost-benefit analysis of which crops to grow and new techniques in climate-smart agriculture to help farmers adapt to erratic weather.
+www.undp.org | www.adaptation-undp.org | #ClimatePromise
+Photo: UNDP Zambia
+Climate Information and Early Warning Systems
+October 2020
+1
+UNITED NATIONS DEVELOPMENT PROGRAMME
+Towards a Multidimensional Vulnerability Index
+Discussion Paper
+February 2021
+Jacob Assa (HDRO, jacob.assa@undp.org) and Riad Meddeb (SIDS, riad.meddeb@undp.org)1
+Abstract
+Most Small Island Developing States (SIDS) are still not eligible for concessional financing because they are classified as middle- or high-income countries. But they are more vulnerable than income data alone might suggest. SIDS face severe structural challenges due to their remoteness, economic concentration, and dependence on external flows such as remittances, foreign direct investment, and tourism revenues. The COVID-19 pandemic has greatly exacerbated these vulnerabilities by restricting travel, collapsing investment and tourism, and weakening the economies from which remittances are sent. This paper constructs a multidimensional vulnerability index (MVI) to account for both long- term structural vulnerabilities as well as the recent weaknesses uncovered by the pandemic. Using 11 indicators for 126 countries (including 34 SIDS), the MVI demonstrates that all but 5 SIDS are far more vulnerable than their income level would suggest. Using the MVI, we estimate that non-LDC SIDS would save close to 1.5% of GDP annually if their long term external public and publicly guaranteed (PPG) debt was funded at the same average interest rate of LDC-SIDS. This analysis implies the urgent need to reconsider eligibility for concessional financing to SIDS on vulnerability rather than just income criteria.
+1 Jacob Assa is an Economist at UNDP’s Human Development Report Offce; Riad Meddeb is the Senior Principal Advisor for SIDS at UNDP’s Bureau for Policy and Programme Support. The authors would like to thank Adriana Dinu, Ahunna Eziakonwa, Almudena Fernandez, George Gray Molina, George Ronald, Haoliang Xu, Julie Andersen, Kanni Wignaraja, Lars Jensen, Luis Lopez-Calva, Marcos Neto, Milorad Kovacevic, Pedro Conceição, Peter Batchelor, Pradeep Kurukulasuriya, Ronald Jackson, Thangavel Palanivel, Babatunde Abidoye, and Yanchun Zhang for helpful comments on an earlier version of this paper.
+2
+1 Background
+Small Island Developing States (SIDS) face a shared set of complex social, environmental, and economic development challenges first articulated at the United Nations Conference on Environment and Development in June 1992 and later in the outcome document of the Third International Conference on SIDS, the Small Island Developing States Accelerated Modalities of Action (S.A.M.O.A.) Pathway. Due to their unique geographical context, they face limited resource bases and barriers to integration into the global economy. First, SIDS are overdependent on imports, including food and energy, which account for as much as 30 percent of their GDP. Second, SIDS’ economies are not diversified and are heavily dependent on tourism; in many island-states, tourism revenues account for over 30 percent of GDP2 and lost revenue will have a devastating impact on these economies. These factors make them particularly vulnerable to external shocks. Third, many SIDS face heavy debt burdens, often as a consequence of responding to external factors, including the impacts of climate change trapping them in an unsustainable cycle. The intensifying impact of the climate crisis poses an existential threat to this group. While SIDS are responsible for only 1% of global greenhouse gas emissions, they are struggling disproportionately with issues such as severe biodiversity loss, rising sea-levels, and increasing severity of extreme weather events.
+As the COVID-19 pandemic has evolved into a multidimensional development crisis and exacerbated these structural vulnerabilities, SIDS are stuck in a trap created by these compounding risks, inhibiting them from realizing their potentials for sustainable development. It is predicted that SIDS will experience contractions in GDP between 8 and 15 percent in 2020, and that recovery from the global crisis will take years and will be costly3. It will take time and resources that SIDS simply do not have. With progress on the 2030 Agenda threatened, SIDS reiterate the call for a multidimensional vulnerability index in line with objectives of the S.A.M.O.A. Pathway. A multidimensional vulnerability index will allow for the inclusion of more than just income-based criteria to assess eligibility for concessionary finance. As of the latest World Bank income classifications, only two SIDS are classified as low-income countries. The middle-income status of many SIDS greatly obscures the level of risk and vulnerability these countries face. A multidimensional vulnerability index will more accurately reflect this and their limited ability to absorb shocks. Such a mechanism will help SIDS create the fiscal space necessary to overcome structural and external vulnerabilities, and build the resilience they need to withstand future shocks.
+2 Vulnerability of What?
+Early discussions on vulnerability focused on the weaknesses and defenselessness of vulnerable groups such as informal workers, the elderly or landless people. More recently, however, the debate is shifting towards a broader view of reducing exposure to uncertainty and risk in order to minimize the likelihood of a shock resulting in a large drop in wellbeing, that is, a view of vulnerability as insecurity leading to destitution4.
+2 UNWTO 2020.
+3 Rashid 2020.
+4 Dercon (2005).
+3
+On the empirical side, a broad range of vulnerability indices have been created by a variety of researchers and institutions in the past twenty-five years. In some of these indices, vulnerability also embeds resilience. In others, vulnerability is measured as a multidimensional phenomenon5. Some cover only SIDS, while others apply to all or most developing countries.
+In terms of dimensions, all vulnerability indices cover one or more of the following dimensions: Economic, Social, Environmental, Governance, Peripherality. Some indicators can be included under different dimensions. For example, ‘transportation cost’ (which is related to remoteness) is classified as an economic indicator in one index but as a peripheral indicator in another. Likewise, ‘victims of natural disasters’ is primarily an environmental indicator but is often included in economic vulnerability indices6.
+Table 1. Composite vulnerability indices by Author
+Author(s)
+Index Name
+Adrianto and Matsuda (2004)
+Economic composite index
+Atkins et al. (2000)
+Commonwealth vulnerability index
+Briguglio and Galea (2004)
+Economic vulnerability index augmented by resilience
+Briguglio et al. (2009)
+Resilience index
+Briguglio (1995)
+Economic vulnerability index
+Esty et al. (2006)
+Environmental performance index
+Kaly et al. (2005)
+Environmental vulnerability index
+Turvey (2007)
+Vulnerability assessment
+UN Committee for Development Policy (2008)
+Economic vulnerability index
+Guillaumont (2009)
+Economic vulnerability index
+Center for Environment and Development (2002)
+Vulnerability index
+Wells (1997)
+Composite vulnerability index
+Source: Angeon and Bates (2015).
+Of the 12 composite vulnerability indices listed in Table 1, only one is an offcial U.N. index. The Economic and Environmental Vulnerability Index (EVI) was created by the U.N. Committee for Development Policy (CDP) as part of the three criteria for inclusion in and graduation from the Least Developed Countries (LDC) category, along with Gross National Income (GNI) per capita and a Human Assets Index (HAI)7.
+The EVI includes both economic and environmental aspects of vulnerability. The Economic Vulnerability sub-index includes:
+• Share of agriculture (as well as fishing, forestry, and hunting) in GDP
+• Remoteness and landlockedness
+• Merchandise export concentration
+• Instability of exports of goods and services
+5 Scandurra et. al. (2018).
+6 Briguglio and Galea (2004), Angeon and Bates (2015).
+7 https://www.un.org/development/desa/dpad/least-developed-country-category/ldc-criteria.html
+4
+The Environmental Vulnerability sub-index includes:
+• Share of population in low elevated coast zones
+• Share of population living in drylands
+• Victims of disasters
+• Instability of agricultural production
+While EVI is one of the LDC categories, it is especially relevant for assessing the vulnerability of SIDS, seven of which are also LDCs. Of the 143 countries for which the CDP calculates the EVI, 9 of the top 25 most vulnerable are SIDS—and 20 of the top 50.
+In addition to its being the only official UN vulnerability index, the EVI has the following benefits:
+• It has consistent data coverage across countries (143) and time (since 2000)
+• Its methodology has been agreed upon by CDP and is reviewed every three years (whereas other indices are only subject to academic peer review)
+• EVI is already used to assess the vulnerability of another group — the LDCs — beyond the income criterion, which is exactly what is now needed for SIDS
+This last point is directly relevant for access to concessional financing. Normally this depends on income (GNI per capita), but, as Figure 1 shows, most SIDS are much more vulnerable than their income level would suggest. While in general there is a negative relationship between income and vulnerability, the 24 SIDS above the fitted line have higher-than-expected vulnerability, whereas the 10 SIDS below the line have lower-than-expected vulnerability, given their income.
+Figure 1. Economic Vulnerability Index (EVI) vs. Per Capita Income (log)
+Data source: Authors’ elaboration based on latest CDP data.
+5
+3 Lessons from COVID-198
+The current COVID-19 pandemic has highlighted existing and new dimensions of vulnerability for all countries but for SIDS in particular. UNDP’s Human Development Report Offce (HDRO) has launched two new dashboards analyzing countries’ vulnerability and preparedness to pandemics and other global shocks9. HDRO notes that the current pandemic is “more than a global health emergency; it is a systemic human development crisis, reflecting our interaction with the ecosystem we are part of, which is already affecting the economic and social dimensions of development in unprecedented ways.”
+The Preparedness Dashboard includes indicators on human development, countries’ health systems, and connectivity infrastructure. The Vulnerability Dashboard includes statistics on multidimensional poverty, social protection, and ‘immediate economic vulnerability.’ This last category includes the inflow of remittances (as a percentage of GDP), net Official Development Assistance received (as a percentage of GNI), and inbound tourism expenditure (percentage of GDP).
+Of all these factors, the nearly universal reduction in travel prompted by the pandemic (both in terms of travel restrictions and voluntary cancellation of travel) has hit SIDS especially hard. On average, the 38 countries in this group derive 42% of all their export revenues from inbound tourism, compared with 11% for all other developing countries. The UNDP dashboards also aggregate regions and country groups by vulnerability levels, with Arab States as well as Europe and Central Asia classified as having Medium Vulnerability on the tourism indicator, and only the SIDS group as having High Vulnerability in this domain.
+Being highly dependent on tourism as a major source of export earnings, SIDS are vulnerable to external economic shocks. The tourism sector accounts for more than 30 percent of total exports in many SIDS, resulting in negative impacts on their ability to service their debt. SIDS are heavily reliant on export revenues for debt servicing with rates amounting to an average of 15% of export revenues and 5.3% of GDP, a level four times as high as that of low-income countries. Furthermore, with their reliance on imports, especially for food and energy supply, SIDS’ trade deficits since 2000 have been between 2-3 times higher than the median for developing countries.
+Likewise, SIDS are more dependent on inflows of remittances than other developing countries. On average, personal remittances account for 7.6% of GDP in SIDS, compared to 4.8% in other developing countries. However, this is only an average. Some of the most vulnerable SIDS (with the highest EVI scores) have a far greater reliance on remittances, with Tonga and Haiti receiving 34.1% and 30.1% of their GDP in remittances, respectively. It is true that for some countries, such as Mexico, remittances have helped cushion the blow during the current pandemic, but Mexico depends on remittances for only 2.6% of its GDP. Overall, then, it is the disproportionate reliance on such an external flow of funding that makes remittances a vulnerability.
+8 The discussion of COVID-19 here is meant to represent any major exogenous shock to vulnerable economies rather a specific health risk or pandemic. This is why we have not included any health-related variables in the MVI, in order to keep its focus more generally on structural vulnerabilities.
+9 http://hdr.undp.org/en/content/global-preparedness-and-vulnerability-dashboards
+6
+Figure 2. Inbound tourism expenditure (2016-2018) and remittances inflows (2018) as % of GDP
+SIDS are also more dependent on inflows of Foreign Direct Investment (FDI) than most other developing countries, averaging 5.5% of GDP compared to 4.3%, respectively. Palau, for example, received 11.5% of its GDP in FDI, on average, between 2014 and 2018. FDI in SIDS is often tied to tourism, so global shocks such as the COVID-19 pandemic can have a double impact on these countries due to travel restrictions — less export revenues from tourism and less FDI at the same time.
+Another key dimension of vulnerability in SIDS is biodiversity. Both tourism and fisheries depend in different ways on large biodiversity, and its loss can be economically devastating. Biodiversity also has cultural value for SIDS, as well as links to water supply, fresh water, formation of soil and sands, and protection against both coastal erosion and storms10. However, a country’s vulnerability based on its biodiversity is already partly captured by the EVI’s indicator on the share of agriculture (as well as fishing, forestry, and hunting) in GDP.
+4 Data and Methodology
+Against this context, it is proposed to add three indicators — tourism revenues, remittances, and FDI
+— to the eight existing indicators of the EVI. Furthermore, given the high vulnerability to biodiversity loss, we initially also explored adding the dimension of biodiversity. However, multivariate analysis revealed very low explanatory power of the biodiversity indicator (around 2% of variance). Coupled with the fact that biodiversity would reduce the sample size from 126 to 122 countries, is has not been included in the current version of the MVI.
+10 UN-OHRLLS 2019.
+7
+Given the many dimensions affected by economic disruptions in SIDS and other developing countries
+— employment, income, debt service — the adjusted EVI can be thought of as a Multidimensional Vulnerability Index (MVI). It thus includes the following 11 indicators:
+1. Merchandise export concentration
+2. Share of agriculture (as well as fishing forestry and hunting) in GDP
+3. Remoteness and landlockedness
+4. Instability of exports of goods and services
+5. International tourism, receipts (percentage of total exports)
+6. Personal remittances, received (percentage of GDP)
+7. Foreign direct investment, net inflows (percentage of GDP)
+8. Share of population in low elevated coast zones
+9. Share of population living in drylands
+10. Victims of disasters
+11. Instability of agricultural production
+Broadening the scope of the EVI comes at the cost of reduced country coverage, as the three new indicators have lower data availability as shown in Table 2.
+Table 2. Indicators Considered for MVI by Source and Data Coverage
+Indicator
+Source
+# of countries
+# of SIDS
+1. Export concentration
+EVI (UN CDP)
+143
+38
+2. Share of agriculture in GDP
+EVI (UN CDP)
+143
+38
+3. Instability of exports of goods and services
+EVI (UN CDP)
+143
+38
+4. International tourism, receipts (% of total exports)
+World Bank (WDI)
+132
+37
+5. Personal remittances, received (% of GDP)
+World Bank (WDI)
+131
+34
+6. Foreign direct investment, net inflows (% of GDP)
+World Bank (WDI)
+140
+37
+7. Share of population living in drylands
+EVI (UN CDP)
+143
+38
+8. Remoteness
+EVI (UN CDP)
+143
+38
+9. Share of population in low elevated coast zones
+EVI (UN CDP)
+143
+38
+10. Victims of disasters
+EVI (UN CDP)
+143
+38
+11. Instability of agricultural production
+EVI (UN CDP)
+143
+38
+Since different indicators are missing data for different countries, the intersection of all datasets covers 126 countries and 34 SIDS. All indicators are normalized using the min-max procedure (as in the EVI) to reduce the impact of extreme outliers.
+To understand the structure of the data, we apply a multivariate statistical procedure — principal component analysis — which reveals the key drivers of differences between countries in the sample. The first four principal components explain nearly 60% of the variation in the data.
+8
+Table 3. Principal Components of the MVI Dataset
+Component
+Indicators
+1. Economic vulnerability
+• Export concentration
+• Export instability
+• Agricultural instability
+2. Financial vulnerability
+• Tourism revenues as share of exports
+• Remittances as percentage of GDP
+• FDI inflows as percentage of GDP
+3. Environmental vulnerability
+• Agriculture and fishing as share of GDP
+• Victims of disasters
+4. Geographic vulnerability
+• Remoteness
+• Share of population in low elevated coast zones
+• Share of population living in drylands
+These components are orthogonal (i.e., not correlated) to each other, thus reducing the overlap and maximizing the information from the original indicators. Figure 3 shows the share of variance explained by each principal component11.
+Figure 3. Percentage of Variance Explained by Principal Components
+These four components are also helpful as an analytical tool. They can help decompose a country’s overall vulnerability as captured by its MVI score into four separate dimensions. As Figure 4 shows, Tonga is very vulnerable in the financial and environmental dimensions, moderately vulnerable geographically, and not very vulnerable economically.
+11 The full results of the PCA are available in Appendix II. For the sake of simplicity, however, the normalized indicators have been aggregated with equal weights using an arithmetic mean to form the MVI.
+9
+Tonga
+Economic 80.0
+60.0
+40.0
+20.0
+Geographical -
+Financial
+Environmental
+Figure 4. A Vulnerability Decomposition for Tonga
+In turn, each component of the MVI can be further tracked down to its original indicator values. In the case of Tonga, the high financial vulnerability score (58.6) is due to its critical dependence on tourism (52.4% of all export revenues) and remittances (34.1% of GDP, the highest proportion of all countries). Tonga’s high environmental vulnerability score (63.5) is reflected in its high shares of victims of disasters (5.3%) and reliance on agriculture, fishery, and forests (22% of GDP). By contrast, its low economic vulnerability score (24.9) is based on low export concentration (0.33 out of 1), low export instability, and low agricultural instability (6 out of 60). Finally, Tonga has a moderate geographical vulnerability score (47.5) despite its very remote location, due to a low proportion of people living in low elevated coastal zones (17.5) and no people living in drylands. Similar charts for all 34 SIDS in the MVI are included in Appendix III.
+5 Results and Benchmarking
+As mentioned above, the MVI can be calculated12 for 126 countries from the EVI dataset. This number includes 34 of the 38 SIDS that are Member States of the United Nations. The Appendix includes a table with the full results of the index, decomposed by indicator score.
+This new index, which builds on both the official EVI and the lessons learned from the COVID-19 pandemic, highlights even more dramatically the acute and multidimensional vulnerability of SIDS. Of the top 25 most vulnerable countries in MVI, 14 are SIDS (likewise 28 of the top 50). Thus, the MVI has more SIDS in its top ranks than the EVI13.
+
+28
+12 The MVI is calculated as the arithmetic mean (average) of the 11 indicators. A geometric mean was considered but not applied for three reasons. (a) It cannot work with zero value which were prevalent in many cases; (b) an arithmetic mean is easier to communicate; and (c) it is comparable to the method of calculating the EVI.
+13 A sensitivity analysis was performed whereby averaging the normalized scores of the 11 indicators for each country was compared with averaging the four component scores (which themselves are means of their respective indicators). The differences in rankings were minimal, with SIDS ranking on average 36 vs. 73 for non-SIDS using the first method, and 38 vs. 72, respectively, for the second method.
+10
+In terms of the degree of vulnerability, the 126 countries in the sample can be grouped into four quartiles using the range (44 points) between the lowest and highest score:
+• Low Vulnerability: Countries with MVI values below 21. There is only one SIDS —
+Barbados — among these 17 countries
+• Medium Vulnerability: Countries with MVI values between 21 and 32. Of these 59 countries, only five (8.5%) are SIDS (Papua New Guinea, Dominican Republic, Mauritius, Nauru, and Trinidad and Tobago)
+• High Vulnerability: Countries with MVI values between 32 and 43. Of these 42 countries, 21 (50%) are SIDS
+• Very High Vulnerability: Countries with MVI values greater than 43. Of these 8 countries, 7 (87.5%) are SIDS
+Overall, 28 of the 34 SIDS in the sample (82%) have High or Very High Vulnerability. Some SIDS are classified by the World Bank as middle- or high-income countries. However, as with the EVI, the MVI also shows (Figure 5) that most SIDS are far more vulnerable than their income would imply (they are above the fitted line):
+Figure 5. Multidimensional Vulnerability Index (MVI) vs. Per Capita Income
+In contrast to the EVI – where 10 SIDS were below the fitted line – plotting MVI against income shows all but 5 SIDS above the fitted line, implying greater vulnerability than suggested by income.
+11
+
+-19
+An important point to note in this table is that, of the 34 SIDS, 24 increased their vulnerability ranking from EVI to MVI, two countries did not change in rankings, and only eight have decreased their vulnerability ranking. The two biggest increases in vulnerability ranking occurred in Grenada and St.
+12
+Vincent. In Grenada’s case this increase in the vulnerability ranking is due to the inclusion of data on tourism, which accounts for 83% of the country’s exports (third-highest dependency among developing countries) and FDI (12.6% of GDP). Likewise, St. Vincent shows increased vulnerability in the MVI due its high reliance on FDI (15.2% of GDP) and tourism (73.6% of total exports).
+On the other hand, Suriname and Papua New Guinea saw the largest decreases in their vulnerability rankings. Suriname is hardly dependent on tourism (4.1% of export revenues), remittances (0.1% of GDP) or FDI (3.4% of GDP). Papua New Guinea is even less dependent on tourism (0.1% for export revenues) and remittances (0% of GDP), and receives only 1.4% of its GDP in FDI.
+On average, however, SIDS increased their vulnerability ranking by 12 positions, whereas non-SIDS dropped in the MVI rankings by 4 positions. Thus, while MVI has higher scores than EVI for some SIDS but lower for others, MVI registers a higher relative vulnerability for SIDS overall.
+This increase in vulnerability ranking of most SIDS can be seen in Figure 6, below. Countries above the line have increased their vulnerability ranking from EVI to MVI. Those below the line have dropped in vulnerability ranking.
+Figure 6. Multidimensional Vulnerability Index (MVI) vs. Economic-Environmental Vulnerability Index (EVI)

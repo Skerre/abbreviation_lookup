@@ -33,60 +33,69 @@ export default function AbbreviationLookup() {
   };
 
   return (
-    
-    <div className="flex flex-col items-center justify-center min-h-screen p-4 bg-gray-100">
-      <div className="w-full max-w-md p-4 shadow-lg bg-white">
-        <h2 className="text-xl font-bold text-center mb-4">UNDP Abbreviation Lookup Tool</h2>
-        <input
-          type="text"
-          placeholder="Enter abbreviation..."
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          onKeyDown={(event) => event.key === "Enter" && handleSearch()}
-          className="search"
-        />
-        <button onClick={handleSearch} className= "button button2">
-          Search
-        </button>
-        <button onClick={() => setShowAll(!showAll)} className="button button2">
-          {showAll ? "Hide All" : "Show All"}
-        </button>
-
-        {result && (
-          <div className="p-4 mt-4 text-left bg-gray-200 border rounded w-full">
-            <br></br>
-            <strong>Result:</strong>
-            <div className="mt-2 space-y-2">{result}</div>
+    <div className="page-container">
+      <div className="content-area">
+        <div className="search-container">
+          <h2 className="header-text">UNDP Abbreviation Lookup Tool</h2>
+          <div className="search-box">
+            <input
+              type="text"
+              placeholder="Enter abbreviation..."
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              onKeyDown={(event) => event.key === "Enter" && handleSearch()}
+              className="search"
+            />
+            <div className="button-group">
+              <button onClick={handleSearch} className="button button2">
+                Search
+              </button>
+              <button onClick={() => setShowAll(!showAll)} className="button button2">
+                {showAll ? "Hide All" : "Show All"}
+              </button>
+            </div>
           </div>
-        )}
+
+          {result && (
+            <div className="result-box">
+              <strong>Result:</strong>
+              <div className="result-content">{result}</div>
+            </div>
+          )}
+        </div>
       </div>
 
       {showAll && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
-          <div className="bg-white p-4 max-h-96 overflow-y-auto w-80 border rounded">
-            <h2 className="text-lg font-bold">All Abbreviations</h2>
-            <ul className="space-y-2">
-              {Object.entries(abbreviations).map(([abbr, definition]) => (
-                <li key={abbr} className="border-b p-2">
-                  <strong>{abbr}:</strong>
-                  <div className="mt-1 space-y-2">
-                    {Array.isArray(definition)
-                      ? definition.map((v, index) => (
-                          <div key={index} className="break-words">- {v}</div>
-                        ))
-                      : <div className="break-words">- {definition}</div>}
-                  </div>
-                </li>
-              ))}
-            </ul>
-            <button onClick={() => setShowAll(false)} className="w-full mt-2 p-2 text-white rounded">Close</button>
+        <div className="modal-overlay">
+          <div className="modal-container">
+            <div className="modal-content">
+              <h2 className="modal-header">All Abbreviations</h2>
+              <div className="abbreviation-scrollarea">
+                <ul className="abbreviation-list">
+                  {Object.entries(abbreviations).map(([abbr, definition]) => (
+                    <li key={abbr} className="abbreviation-item">
+                      <strong>{abbr}:</strong>
+                      <div className="definition-box">
+                        {Array.isArray(definition)
+                          ? definition.map((v, index) => (
+                              <div key={index} className="definition-item">- {v}</div>
+                            ))
+                          : <div className="definition-item">- {definition}</div>}
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div className="modal-footer">
+                <button onClick={() => setShowAll(false)} className="close-button">Close</button>
+              </div>
+            </div>
           </div>
         </div>
       )}
-      <footer className="w-full text-center p-4 bg-gray-200 text-gray-700 text-sm mt-auto">
+      <footer className="page-footer">
         © {new Date().getFullYear()} martin.szigeti@undp.org. All rights reserved.
-      </footer> 
+      </footer>
     </div>
   );
-
 }
