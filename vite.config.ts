@@ -4,4 +4,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   base: "/abbrevation_lookup/",
   plugins: [react()],
+  build: {
+    sourcemap: false,
+  },
 });
