@@ -5,6 +5,6 @@ export default defineConfig({
   base: "/abbrevation_lookup/",
   plugins: [react()],
   build: {
-    sourcemap: false,
-  },
+    outDir: 'dist'
+  }
 });
