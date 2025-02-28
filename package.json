@@ -1,11 +1,11 @@
 {
-  "homepage": "https://skerre.github.io/abbrevation_lookup",
+  "homepage": "https://skerre.github.io/abbreviation_lookup",
   "name": "abbreviation-lookup",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && cp .nojekyll dist/",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"

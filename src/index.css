@@ -52,10 +52,11 @@ body {
 /* Input and Buttons */
 .search {
   font-size: 1rem;
-  padding: 0.75rem 0rem;
+  padding: 0.75rem 0.5rem;
   border: 2px solid #008CBA;
   border-radius: 4px;
-  width: 99%;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .button {
@@ -94,6 +95,25 @@ body {
 
 .result-content {
   margin-top: 0.75rem;
+}
+
+/* Loading and Error States */
+.loading-message {
+  text-align: center;
+  padding: 1rem;
+  color: #0066a2;
+  font-weight: bold;
+}
+
+.error-message {
+  text-align: center;
+  padding: 1rem;
+  color: #dc3545;
+  font-weight: bold;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 4px;
+  margin-bottom: 1rem;
 }
 
 /* Modal for All Abbreviations */

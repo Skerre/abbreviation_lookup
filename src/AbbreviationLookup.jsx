@@ -6,12 +6,30 @@ export default function AbbreviationLookup() {
   const [input, setInput] = useState("");
   const [result, setResult] = useState(null);
   const [showAll, setShowAll] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch("./abbreviations_cleaned.json")
-      .then((response) => response.json())
-      .then((data) => setAbbreviations(data))
-      .catch((error) => console.error("Error loading abbreviations:", error));
+    // Use the import.meta.env.BASE_URL to ensure correct path resolution
+    const jsonPath = `${import.meta.env.BASE_URL}abbreviations_cleaned.json`;
+    
+    setIsLoading(true);
+    fetch(jsonPath)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        setAbbreviations(data);
+        setIsLoading(false);
+      })
+      .catch((error) => {
+        console.error("Error loading abbreviations:", error);
+        setError(`Failed to load abbreviations: ${error.message}`);
+        setIsLoading(false);
+      });
   }, []);
 
   const handleSearch = () => {
@@ -37,35 +55,44 @@ export default function AbbreviationLookup() {
       <div className="content-area">
         <div className="search-container">
           <h2 className="header-text">UNDP Abbreviation Lookup Tool</h2>
-          <div className="search-box">
-            <input
-              type="text"
-              placeholder="Enter abbreviation..."
-              value={input}
-              onChange={(e) => setInput(e.target.value)}
-              onKeyDown={(event) => event.key === "Enter" && handleSearch()}
-              className="search"
-            />
-            <div className="button-group">
-              <button onClick={handleSearch} className="button button2">
-                Search
-              </button>
-              <button onClick={() => setShowAll(!showAll)} className="button button2">
-                {showAll ? "Hide All" : "Show All"}
-              </button>
-            </div>
-          </div>
+          
+          {isLoading ? (
+            <div className="loading-message">Loading abbreviations...</div>
+          ) : error ? (
+            <div className="error-message">{error}</div>
+          ) : (
+            <>
+              <div className="search-box">
+                <input
+                  type="text"
+                  placeholder="Enter abbreviation..."
+                  value={input}
+                  onChange={(e) => setInput(e.target.value)}
+                  onKeyDown={(event) => event.key === "Enter" && handleSearch()}
+                  className="search"
+                />
+                <div className="button-group">
+                  <button onClick={handleSearch} className="button button2">
+                    Search
+                  </button>
+                  <button onClick={() => setShowAll(!showAll)} className="button button2">
+                    {showAll ? "Hide All" : "Show All"}
+                  </button>
+                </div>
+              </div>
 
-          {result && (
-            <div className="result-box">
-              <strong>Result:</strong>
-              <div className="result-content">{result}</div>
-            </div>
+              {result && (
+                <div className="result-box">
+                  <strong>Result:</strong>
+                  <div className="result-content">{result}</div>
+                </div>
+              )}
+            </>
           )}
         </div>
       </div>
 
-      {showAll && (
+      {showAll && !isLoading && !error && (
         <div className="modal-overlay">
           <div className="modal-container">
             <div className="modal-content">
