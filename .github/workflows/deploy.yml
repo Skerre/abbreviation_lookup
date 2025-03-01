@@ -22,11 +22,8 @@ jobs:
       - name: Build
         run: npm run build
         
-      - name: Create .nojekyll file
+      - name: Create empty .nojekyll file
         run: touch dist/.nojekyll
-      
-      - name: List build files (debug)
-        run: ls -la dist/
         
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
