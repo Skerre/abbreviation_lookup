@@ -259,5 +259,6 @@ const abbreviationsData = {
     "VR": "Virtual Reality",
     "WNISEF": "Western NIS Enterprise Fund",
     "WNS Europe": "Western, Northern, and Southern Europe",
-    "XML": "Extensible Markup Language"
+    "XML": "Extensible Markup Language",
+    "RBA": "Regional Bureau Africa"
 };
