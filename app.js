@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         resultContentEl.innerHTML = resultHTML;
       } else {
-        resultContentEl.textContent = 'No definition found.';
+        resultContentEl.textContent = 'No definition found. Want to add a missing definition? Contact me!';
       }
       
       resultBoxEl.classList.remove('hidden');
