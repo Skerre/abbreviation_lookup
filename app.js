@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
       
       resultContentEl.innerHTML = resultHTML;
     } else {
-      resultContentEl.textContent = 'No definition found.';
+      resultContentEl.textContent = 'No definition found. Do you want add an abbreviation? Contact me!';
     }
     
     resultBoxEl.classList.remove('hidden');

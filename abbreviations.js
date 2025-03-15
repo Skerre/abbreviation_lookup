@@ -3,6 +3,7 @@
 
 const abbreviationsData = {
     "AI": "Artificial Intelligence",
+    "PIF": "PROJECT IDENTIFICATION FORM",
     "IC": "International Consultant",
     "IPSA": [
         "International Professional Service Agreement",
