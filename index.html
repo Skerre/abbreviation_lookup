@@ -149,6 +149,10 @@
       flex-direction: column;
       height: 100%;
       max-height: 80vh;
+      user-select: none; /* Prevent text selection */
+      -webkit-user-select: none; /* Safari */
+      -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* IE10+/Edge */
     }
 
     .modal-header {
@@ -178,11 +182,19 @@
 
     .definition-box {
       margin-top: 0.5rem;
+      user-select: none; /* Prevent text selection */
+      -webkit-user-select: none; /* Safari */
+      -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* IE10+/Edge */
     }
 
     .definition-item {
       margin: 0.25rem 0;
       word-break: break-word;
+      user-select: none; /* Prevent text selection */
+      -webkit-user-select: none; /* Safari */
+      -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* IE10+/Edge */
     }
 
     .modal-footer {
