@@ -433,5 +433,7 @@ const abbreviationsData = {
     "WNISEF": "Western NIS Enterprise Fund",
     "WNS Europe": "Western, Northern, and Southern Europe",
     "XML": "Extensible Markup Language",
-    "RBA": "Regional Bureau Africa"
+    "RBA": ["Regional Bureau (for) Africa","The Regional Bureau for Africa leads UNDP works in 46 countries in Sub-Saharan Africa, implementing the organization’s Strategic Plan, driven by the vision to eliminate poverty, significantly reduce inequalities and exclusion, while inspiring hope for a better future."],
+    "RR": ["Resident Representative","As the key people responsible for UNDP activities and programmes in the countries they work in, Resident Representatives play a crucial role in keeping the hopes of millions alive, while shining a light on UNDP’s development strategies and work towards achieving the Sustainable Development Goals, as well as a future smart Africa."],
+    "DD": "Deputy Director"
 };
