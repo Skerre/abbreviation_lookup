@@ -184,12 +184,17 @@ body {
   }
   
   .definition-item {
-    margin: 0.25rem 0;
+    margin: 0.5rem 0;
     word-break: break-word;
     user-select: none; /* Prevent text selection */
     -webkit-user-select: none; /* Safari */
     -moz-user-select: none; /* Firefox */
     -ms-user-select: none; /* IE10+/Edge */
+  }
+  
+  .definition-item:not(:last-child) {
+    border-bottom: 1px dashed #d0d7de;
+    padding-bottom: 0.5rem;
   }
   
   .modal-footer {

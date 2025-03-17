@@ -72,6 +72,16 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
+  // Format definition
+  function formatDefinition(value) {
+    // Check if it's a URL and format it as a link if it is
+    if (typeof value === 'string' && value.startsWith('http')) {
+      return `<a href="${value}" target="_blank">${value}</a>`;
+    } else {
+      return value;
+    }
+  }
+
   // Handle search functionality
   function handleSearch() {
     const abbreviation = searchInputEl.value.trim().toUpperCase();
@@ -82,29 +92,24 @@ document.addEventListener('DOMContentLoaded', function() {
       let resultHTML = '';
       
       if (Array.isArray(values)) {
-        values.forEach(value => {
-          // Check if it's a URL and format it as a link if it is
-          if (value.startsWith('http')) {
-            resultHTML += `<div>- <a href="${value}" target="_blank">${value}</a></div>`;
-          } else {
-            resultHTML += `<div> ${value}</div>`;
-          }
+        values.forEach((value, index) => {
+          const formattedValue = formatDefinition(value);
+          resultHTML += `<div class="definition-item">${formattedValue}</div>`;
         });
       } else {
-        resultHTML = `<div> ${values}</div>`;
+        resultHTML = `<div class="definition-item">${formatDefinition(values)}</div>`;
       }
       
       resultContentEl.innerHTML = resultHTML;
     } else {
-      resultContentEl.textContent = 'No definition found. Do you want add an abbreviation? Contact me!';
+      resultContentEl.textContent = 'No definition found.';
     }
     
     resultBoxEl.classList.remove('hidden');
   }
 
   // Toggle "Show All" modal
-   // Toggle "Show All" modal
-   function toggleAllAbbreviations() {
+  function toggleAllAbbreviations() {
     // If modal is already visible, hide it
     if (!modalEl.classList.contains('hidden')) {
       modalEl.classList.add('hidden');
@@ -134,15 +139,15 @@ document.addEventListener('DOMContentLoaded', function() {
         definitionBox.className = 'definition-box';
         
         if (Array.isArray(definition)) {
-          definition.forEach(def => {
+          definition.forEach((def, index) => {
             const defItem = document.createElement('div');
             defItem.className = 'definition-item';
             
             // Check if it's a URL and format it as a link if it is
-            if (def.startsWith('http')) {
-              defItem.innerHTML = `- <a href="${def}" target="_blank">${def}</a>`;
+            if (typeof def === 'string' && def.startsWith('http')) {
+              defItem.innerHTML = `<a href="${def}" target="_blank">${def}</a>`;
             } else {
-              defItem.textContent = `- ${def}`;
+              defItem.textContent = def;
             }
             
             definitionBox.appendChild(defItem);
@@ -150,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
           const defItem = document.createElement('div');
           defItem.className = 'definition-item';
-          defItem.textContent = `${definition}`;
+          defItem.textContent = definition;
           definitionBox.appendChild(defItem);
         }
         
