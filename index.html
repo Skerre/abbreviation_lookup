@@ -27,6 +27,9 @@
               <button id="search-button" class="button button2">Search</button>
               <button id="show-all-button" class="button button2">Show All</button>
             </div>
+            <div class="info-link-container">
+              <a href="#" id="info-link" class="info-link">What is this?</a>
+            </div>
           </div>
 
           <div id="result-box" class="result-box hidden">
@@ -54,6 +57,26 @@
     <footer class="page-footer">
       © <span id="current-year"></span> martin.szigeti@undp.org. All rights reserved.
     </footer>
+  </div>
+
+  <div id="info-modal" class="modal-overlay hidden">
+    <div class="modal-container">
+      <div class="modal-content">
+        <h2 class="modal-header">About This Tool</h2>
+        <div class="info-content">
+          <p>The <strong>UNDP Abbreviation Lookup Tool</strong> is designed to help UNDP staff, partners, and stakeholders quickly find the meaning of acronyms and abbreviations commonly used in UNDP documents and communications. It is centered around the works of Istanbul Regional Hub (IRH), RBEC (Regional Bureau for Europe and Central Asia), SFH (Sustainable Finance Hub), BPPS (Bureau for Policy and Programme Support) and ICPSD (Istanbul Center for Private Sector in Development).</p>
+          
+          <p>Working with international organizations often involves navigating a complex landscape of specialized terms and acronyms. This tool aims to simplify that process by providing a centralized reference for UNDP-related terminology.</p>
+          
+          <p>Simply enter an abbreviation in the search box and click "Search" to find its meaning. You can also click "Show All" to browse the complete list of available abbreviations.</p>
+          
+          <p>If you have suggestions for additional abbreviations or corrections, please contact <a href="mailto:martin.szigeti@undp.org">martin.szigeti@undp.org</a>.</p>
+        </div>
+        <div class="modal-footer">
+          <button id="info-close-button" class="close-button">Close</button>
+        </div>
+      </div>
+    </div>
   </div>
 
   <script src="abbreviations.js"></script>

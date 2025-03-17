@@ -232,6 +232,33 @@ body {
     font-size: 0.875rem;
   }
   
+  .info-link-container {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  
+  .info-link {
+    color: #0066a2;
+    font-size: 0.9rem;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .info-link:hover {
+    text-decoration: underline;
+    color: #008CBA;
+  }
+  
+  .info-content {
+    padding: 0 1.5rem;
+    overflow-y: auto;
+    line-height: 1.5;
+  }
+  
+  .info-content p {
+    margin-bottom: 1rem;
+  }
+  
   .hidden {
     display: none;
   }

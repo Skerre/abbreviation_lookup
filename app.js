@@ -14,6 +14,9 @@ document.addEventListener('DOMContentLoaded', function() {
   const abbreviationListEl = document.getElementById('abbreviation-list');
   const closeButtonEl = document.getElementById('close-button');
   const currentYearEl = document.getElementById('current-year');
+  const infoLinkEl = document.getElementById('info-link');
+  const infoModalEl = document.getElementById('info-modal');
+  const infoCloseButtonEl = document.getElementById('info-close-button');
 
   // Set current year in the footer
   currentYearEl.textContent = new Date().getFullYear();
@@ -69,6 +72,17 @@ document.addEventListener('DOMContentLoaded', function() {
     // Close modal button click
     closeButtonEl.addEventListener('click', function() {
       modalEl.classList.add('hidden');
+    });
+    
+    // Info link click
+    infoLinkEl.addEventListener('click', function(e) {
+      e.preventDefault();
+      infoModalEl.classList.remove('hidden');
+    });
+    
+    // Info close button click
+    infoCloseButtonEl.addEventListener('click', function() {
+      infoModalEl.classList.add('hidden');
     });
   }
 
