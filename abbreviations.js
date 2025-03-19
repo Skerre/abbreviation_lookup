@@ -222,7 +222,8 @@ const abbreviationsData = {
     "IMM": "Impact Measurement and Managment",
     "TA": "Technical Assistance",
     "LDCs": "Least Developed Countries",
-    "MoU": "Memorandum of Understanding",
+    "CSO": "Civil Society Organization",
+    "CSOs": "Civil Society Organizations",
     "FA": "Financial Agreement",
     "DoA":" Delegation of Authority",
     "DD": "Due Diligence",
@@ -351,6 +352,7 @@ const abbreviationsData = {
         "An interactive experience that enhances real-world environments with computer-generated perceptual information.",
         "Autonomous Republic"
     ],
+    "MoU": "Memorandum of Understanding",
     "ATO": "Anti-Terrorist Operation",
     "AUM": "Assets Under Management",
     "BEPS": "Base Erosion and Profit Shifting",
