@@ -2,6 +2,7 @@
 // This avoids the need for fetch requests which can cause MIME type issues
 
 const abbreviationsData = {
+    "CN": "Concept Note",
     "AI": [
         "Artificial Intelligence",
         "Technology that enables machines to simulate human intelligence processes, including learning, reasoning, and self-correction."
@@ -120,6 +121,7 @@ const abbreviationsData = {
         "Public-Private Partnership",
         "A cooperative arrangement between public and private sectors, typically for infrastructure development or service delivery."
     ],
+    "ToR": "Terms of Reference",
     "PS": "Private Sector",
     "RCD": "Recycling of Construction and Demolition Waste",
     "RRR": "Reduce, Reuse, and Recycle",
