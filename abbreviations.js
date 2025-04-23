@@ -108,6 +108,7 @@ const abbreviationsData = {
         "Nationally Determined Contribution",
         "A non-binding national plan highlighting climate actions, including climate-related targets for greenhouse gas emission reductions."
     ],
+    "CO": "Country Office",
     "NGO": [
         "Non-Governmental Organization",
         "An independent organization that operates independently of any government, typically designed to address a social or political issue."
