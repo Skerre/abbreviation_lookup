@@ -119,6 +119,8 @@ const abbreviationsData = {
     "Gross Domestic Product",
     "The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period."
 ],
+"MoU": "Memorandum of Understanding",
+"CN": "Concept Note",
 "IEP": "Institute for Economics and Peace",
 "ISIS/Daesh": "Islamic State of Iraq and Syria, also known as the Islamic State of Iraq and the Levant (the latter is a translation of Daesh, the Arabic acronym)",
 "ISWA": "Islamic State in West Africa",
