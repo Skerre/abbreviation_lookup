@@ -113,6 +113,25 @@ const abbreviationsData = {
         "Non-Governmental Organization",
         "An independent organization that operates independently of any government, typically designed to address a social or political issue."
     ],
+    "CTE": "Countering Terrorism and Extremism",
+"CVE": "Countering Violent Extremism",
+"GDP": [
+    "Gross Domestic Product",
+    "The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period."
+],
+"IEP": "Institute for Economics and Peace",
+"ISIS/Daesh": "Islamic State of Iraq and Syria, also known as the Islamic State of Iraq and the Levant (the latter is a translation of Daesh, the Arabic acronym)",
+"ISWA": "Islamic State in West Africa",
+"JNIM": "Jama'a Nusrat ul-Islam wa al-Muslimin",
+"MINUSMA": "UN Multidimensional Integrated Stabilization Mission in Mali",
+"MNJTF": "Multinational Joint Task Force",
+"ODA": "Overseas Development Assistance",
+"PVE": [
+    "Preventing Violent Extremism",
+    "A proactive approach aimed at addressing the root causes and risk factors that lead to violent extremism through non-coercive measures."
+],
+"UNOCT": "United Nations Office for Counter-Terrorism",
+"VE Group": "Violent Extremist Group",
     "OECD": [
         "Organization for Economic Co-operation and Development",
         "An intergovernmental economic organization with 38 member countries, founded to stimulate economic progress and world trade."
