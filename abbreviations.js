@@ -121,6 +121,7 @@ const abbreviationsData = {
 ],
 "MoU": "Memorandum of Understanding",
 "CN": "Concept Note",
+"RSCA": ["UNDP's Regional Service Centre for Africa", "UNDP's Regional Service Centre for Africa (RSCA) is one of five UNDP Regional Service Centres in the world, developing high-quality knowledge and policy for UNDP in Africa. Situated in Addis Ababa, Ethiopia, it acts as the organization’s main interface with regional and continental bodies such as the African Union and Regional Economic Communities and serves 46 Country Offices in sub-Saharan Africa."],
 "IEP": "Institute for Economics and Peace",
 "ISIS/Daesh": "Islamic State of Iraq and Syria, also known as the Islamic State of Iraq and the Levant (the latter is a translation of Daesh, the Arabic acronym)",
 "ISWA": "Islamic State in West Africa",
