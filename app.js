@@ -97,30 +97,36 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   // Handle search functionality
-  function handleSearch() {
-    const abbreviation = searchInputEl.value.trim().toUpperCase();
-    if (abbreviation === '') return;
+// Handle search functionality - FIXED VERSION
+function handleSearch() {
+  const searchTerm = searchInputEl.value.trim();
+  if (searchTerm === '') return;
+  
+  // Find the key using case-insensitive comparison
+  const matchedKey = Object.keys(abbreviationsData).find(key => 
+    key.toUpperCase() === searchTerm.toUpperCase()
+  );
+  
+  if (matchedKey) {
+    const values = abbreviationsData[matchedKey];
+    let resultHTML = '';
     
-    if (abbreviation in abbreviationsData) {
-      const values = abbreviationsData[abbreviation];
-      let resultHTML = '';
-      
-      if (Array.isArray(values)) {
-        values.forEach((value, index) => {
-          const formattedValue = formatDefinition(value);
-          resultHTML += `<div class="definition-item">${formattedValue}</div>`;
-        });
-      } else {
-        resultHTML = `<div class="definition-item">${formatDefinition(values)}</div>`;
-      }
-      
-      resultContentEl.innerHTML = resultHTML;
+    if (Array.isArray(values)) {
+      values.forEach((value, index) => {
+        const formattedValue = formatDefinition(value);
+        resultHTML += `<div class="definition-item">${formattedValue}</div>`;
+      });
     } else {
-      resultContentEl.textContent = 'No definition found.';
+      resultHTML = `<div class="definition-item">${formatDefinition(values)}</div>`;
     }
     
-    resultBoxEl.classList.remove('hidden');
+    resultContentEl.innerHTML = resultHTML;
+  } else {
+    resultContentEl.textContent = 'No definition found.';
   }
+  
+  resultBoxEl.classList.remove('hidden');
+}
 
   // Toggle "Show All" modal
   function toggleAllAbbreviations() {
