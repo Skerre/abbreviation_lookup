@@ -222,7 +222,7 @@ const abbreviationsData = {
         "Light Detection and Ranging",
         "A remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth."
     ],
-    "OCG": "Organizational Core Group",
+    "OCG": "Operation Coordination Group (Lebanon)",
     "PDNA": [
         "Post-Disaster Needs Assessment",
         "A comprehensive assessment conducted after a disaster to evaluate the damage, losses, and recovery needs of affected areas."
