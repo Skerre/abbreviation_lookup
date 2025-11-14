@@ -216,6 +216,7 @@ const abbreviationsData = {
         "Least Developed Countries",
         "Low-income countries confronting severe structural impediments to sustainable development."
     ],
+    "TMS":["Tension monitoring system", "The Tensions Monitoring System is a project established in 2017 through a collaboration between UNDP, UNHCR, the Ministry of Social Affairs, and the Ministry of Interior and Municipalities in Lebanon. The system regularly collects, analyzes, and disseminates data on tensions and communal relations in Lebanon, with the ultimate objective of supporting partners in developing a better and deeper understanding of tensions and conflict in the country. The system also uses this analysis to provide conflict-sensitive recommendations, guidance, and technical support to UN, NGO, government, and donor partners."],
     "LIDAR": [
         "Light Detection and Ranging",
         "A remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth."
