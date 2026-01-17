@@ -32,6 +32,9 @@ const abbreviationsData = {
         "Bureau for Policy and Programme Support",
         "A key bureau within UNDP that provides policy advice, technical support, and expertise across UNDP's practice areas."
     ],
+    "MoSA": ["Ministry of Social Affairs","A Lebanese government body involved in social welfare, including supporting vulnerable populations like persons with disabilities and coordinating social stability efforts."],
+    "MoIM": ["Ministry of Interior and Municipalities","A Lebanese government body responsible for internal affairs, including local governance and municipal services."],
+    "TMS": ["Tension Monitoring System","The Tensions Monitoring System is a project established in 2017 through a collaboration between UNDP, UNHCR, the Ministry of Social Affairs, and the Ministry of Interior and Municipalities in Lebanon. The system regularly collects, analyzes, and disseminates data on tensions and communal relations in Lebanon, with the ultimate objective of supporting partners in developing a better and deeper understanding of tensions and conflict in the country. The system also uses this analysis to provide conflict-sensitive recommendations, guidance, and technical support to UN, NGO, government, and donor partners."],
     "CB": "Crisis Bureau",
     "CLE": "Center for Leadership and Entrepreneurship",
     "COP29": [
@@ -222,6 +225,7 @@ const abbreviationsData = {
         "Light Detection and Ranging",
         "A remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth."
     ],
+    "PHC": "",
     "OCG": "Operation Coordination Group (Lebanon)",
     "PDNA": [
         "Post-Disaster Needs Assessment",
